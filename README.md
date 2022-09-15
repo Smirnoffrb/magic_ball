@@ -9,5 +9,5 @@
 Запуск программы:
 
 ```
-ruby magic_ball.rb
+ruby 8ball.rb
 ```
